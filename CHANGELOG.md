@@ -7,3 +7,4 @@
 - 2025-06-26: add frontend skeleton
 - 2025-07-01: add opensea metadata fields
 - 2025-07-01: refactor contract for gas efficiency
+- 2025-07-01: add tests for the allowlist
