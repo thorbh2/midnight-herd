@@ -10,3 +10,4 @@
 - 2025-07-01: add tests for the allowlist
 - 2025-07-02: add frontend skeleton
 - 2025-07-02: update contract compiler
+- 2025-07-03: add CI workflow
