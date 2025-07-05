@@ -11,3 +11,4 @@
 - 2025-07-02: add frontend skeleton
 - 2025-07-02: update contract compiler
 - 2025-07-03: add CI workflow
+- 2025-07-05: bump dependency versions
